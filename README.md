@@ -1,8 +1,20 @@
-# React + Vite
+Is a simple desktop web application that allows users to manage their expenses. Users can input an initial balance and then add, modify, or delete expenses as needed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+**Expense Management**: Easily add, edit, or delete expenses to keep track of your spending.
 
-Currently, two official plugins are available:
+**Initial Balance**: Start with an initial balance to have a clear picture of your available funds.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+
+**Initial Balance**: Enter your initial balance in the provided field and click "Set Balance."
+
+**Add an Expense**: To add an expense, enter the expense name and amount, then click "Add Expense."
+
+**Edit an Expense**: To edit an existing expense, click the "Edit" button next to the expense you want to modify, make the necessary changes, and click "Save."
+
+**Delete an Expense**: To delete an expense, click the "Delete" button next to the expense you want to remove.
+
+[**Live Demo**](http://3.88.197.230/)
+
+![Estado del Flujo de Trabajo](https://github.com/gustavoDuarte96/control-gastos/actions/workflows/node.js.yml/badge.svg)
